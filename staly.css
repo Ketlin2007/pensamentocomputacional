@@ -1,0 +1,28 @@
+h1{
+    color:MediumBlue;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-transform: uppercase;
+}
+
+p{
+    /*color:blue;*/
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 12px;
+}
+
+b{
+    color:rgb(239, 11, 11);
+    font-size: 26px;
+    text-transform: capitalize;
+}
+
+strong{
+    color: rgb(163, 12, 12);
+font-size :26px;
+text-transform: capitalize;
+}
+   
